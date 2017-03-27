@@ -52,6 +52,11 @@
 %     OTSIKKO
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{textblock}{0}(7,5)
+\includegraphics[width=2cm]{helsinki_hacklab_logo}
+\end{textblock}
+
 \namesection{Helsinki}{Hacklab}{ \urlstyle{same}\href{http://helsinki.hacklab.fi}{helsinki.hacklab.fi} | Takkatie 18 | Community run workspace
 }
 
@@ -78,10 +83,11 @@ No. members 250
 
 \subsection{Workspace}
 Wood shop \textbullet{} Metal works \\
-Electronics \textbullet{} Media lab \\
+Electronics room \textbullet{} Media lab \\
 Textile work \textbullet{} Classroom \\
 3D pringing \textbullet{} Machining \\
-Robotics \textbullet{} Painting \textbullet{} Kitchen
+Robotics \textbullet{} Painting \textbullet{} Kitchen \\
+Chemistry corner \textbullet{} Materials
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     NETISSÄ
@@ -151,7 +157,7 @@ OHM {\scriptsize 2013, Netherlands}
 
 
 \section{Introduction}
-Helsinki Hacklab ry. is a hobbyist organization in Helsinki region and a part international Hackerspace movement. We are an independent and self sustained community, which runs an open and member funded workspace for building and creating projects. The workspace interior is organized and built by our members. Majority of our open courses are completely free for participants. The association is active in communicating, writing its blog and publishes dozens of photos of its activities every month. We co-operate with Finnish Astronautical Society.
+Helsinki Hacklab ry. is a hobbyist organization in Helsinki region and a part international Hackerspace movement. We are an independent, unaffiliated and self sustained community, which runs an open and member funded workspace for building and creating projects. The workspace interior is organized and built by our members. Majority of our open courses are completely free for participants. The association is active in communicating, writing its blog and publishing dozens of photos of its activities every month. We co-operate with Finnish Astronautical Society.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -184,7 +190,7 @@ Mechanical marble course made from electrical waste and other junk.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Yhteistyö
+%     Yhteistyö, taide
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Art co-operation}
@@ -210,11 +216,14 @@ Dance, sensors, movement, sound and effects combined.
 \descript{\textbullet{} Harri Larjosto and Helsinki Hacklab}
 \location{Vantaa art museum, winter 2013}
 Technical design and production of robotic parts in the artwork.
-\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Yhteistyö, koulutus
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Education co-operation}
 \runsubsection{Exactum Greenhouse}
-\descript{\textbullet{} Helsinki University Faculty of IT}
+\descript{\textbullet{} Uni. Helsinki Department of CS}
 Workspace in use for project course exercises 2015.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -227,5 +236,8 @@ Helsinki Hacklab members include demoscene actives and competitors.
 2013	     & \textit{Metro display}, sooda | Assembly Summer 2013 Real Wild, 1st place
 \end{tabular}
 
-\end{minipage} 
+\end{minipage}
+
+\footersection{Community operated | Independent | Open | Self-sustained}
+ 
 \end{document}

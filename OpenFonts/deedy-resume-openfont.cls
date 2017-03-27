@@ -30,12 +30,13 @@
 
 % Date command
 \usepackage[absolute]{textpos}
-\usepackage[UKenglish]{isodate}
+%\usepackage[UKenglish]{isodate}
+\usepackage[yyyymmdd]{datetime}
 \setlength{\TPHorizModule}{1mm}
 \setlength{\TPVertModule}{1mm}
-\newcommand{\lastupdated}{\begin{textblock}{60}(155,5)
+\newcommand{\lastupdated}{\begin{textblock}{60}(177,5)
 \color{date}\fontspec[Path = fonts/raleway/]{Raleway-ExtraLight}\fontsize{8pt}{10pt}\selectfont 
-Last Updated on \today
+\today
 \end{textblock}}
 
 % Name command
@@ -51,6 +52,17 @@ Last Updated on \today
 \noindent\makebox[\linewidth]{\color{headings}\rule{\paperwidth}{0.4pt}}
 \vspace{-15pt}
 }
+
+
+% Name command
+\newcommand{\footersection}[1]{
+\centering{
+\vspace{20pt}
+\color{headings}
+\noindent\makebox[\linewidth]{\color{headings}\rule{\paperwidth}{0.4pt}}
+\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{14pt}\selectfont #1}
+}
+
 
 % Section seperators 
 \usepackage{titlesec}

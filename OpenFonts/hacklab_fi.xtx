@@ -24,10 +24,11 @@
 
 \documentclass[]{deedy-resume-openfont}
 \usepackage{fancyhdr}
- 
+
 \pagestyle{fancy}
 \fancyhf{}
  
+\usepackage{graphicx}
 
 % Lisätilaa ja A4-kokoon vaihtaminen
 \usepackage{geometry}
@@ -35,6 +36,9 @@
  a4paper,
  total={170mm,257mm}
  }
+
+
+
 
 
 \begin{document}
@@ -51,8 +55,14 @@
 %     OTSIKKO
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{textblock}{0}(7,5)
+\includegraphics[width=2cm]{helsinki_hacklab_logo}
+\end{textblock}
+
 \namesection{Helsinki}{Hacklab}{ \urlstyle{same}\href{http://helsinki.hacklab.fi}{helsinki.hacklab.fi} | Takkatie 18 | Yhteisöllinen työtila
 }
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -77,10 +87,11 @@ Jäseniä noin 250 \\
 
 \subsection{Työtilat}
 Puutyöverstas \textbullet{} Metallityöt \\
-Elektroniikka \textbullet{} Mediatyötila \\
+Elektroniikkahuone \textbullet{} Mediatyötila \\
 Ompelutyöt \textbullet{} Koulutustilat \\
 3D-tulostaminen \textbullet{} Koneistus \\
-Robotiikka \textbullet{} Maalaus \textbullet{} Keittiö
+Robotiikka \textbullet{} Maalaus \textbullet{} Keittiö \\
+Kemianurkkaus \textbullet{} Materiaalit
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     NETISSÄ
@@ -183,7 +194,7 @@ Elektroniikkaromusta ja muusta jätteestä rakennettu mekaaninen kuularata.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Yhteistyö
+%     Yhteistyö, taide
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Taideyhteistyö}
@@ -209,7 +220,10 @@ Tanssia, sensoreita, liikettä, ääntä ja efektejä yhdistelevä teos.
 \descript{\textbullet{} Harri Larjosto ja Helsinki Hacklab}
 \location{Vantaan taidemuseo, talvi 2013}
 Teoksen robotiikan tekninen suunnittelu ja toteutus.
-\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Yhteistyö, koulutus
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Koulutusyhteistyö}
 \runsubsection{Exactum Greenhouse}
@@ -223,9 +237,14 @@ Työtila käytössä projektikurssin harjoitustöissä 2015.
 \section{Demoskenetoiminta} 
 Yhdistyksen jäsenissä on useita demoskene-aktiiveja ja kilpailuihin osallistujia.
 \begin{tabular}{rll}
-2013	     & \textit{Metronäyttö}, sooda | Assembly Summer 2013 Real Wild, voittaja
+2013	     & \textit{Metronäyttö}, sooda | Assembly Summer 2013 Real Wild, 1. sija
 \end{tabular}
 
+\cfoot{Yhteisöllinen | Itsenäinen | Avoin}
+
 \end{minipage} 
+
+\footersection{Yhteisöllinen | Itsenäinen | Avoin | Riippumaton}
+
 \end{document}  \documentclass[]{article}
 
