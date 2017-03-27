@@ -1,0 +1,231 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.2 (16/9/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%   Helsinki Hacklab community CV
+%   Finnish version
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+
+% Lisätilaa ja A4-kokoon vaihtaminen
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm}
+ }
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     PÄIVITETTY
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     OTSIKKO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Helsinki}{Hacklab}{ \urlstyle{same}\href{http://helsinki.hacklab.fi}{helsinki.hacklab.fi} | Takkatie 18 | Yhteisöllinen työtila
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     SARAKE, vasen
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     TILAT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Hackerspace} 
+
+\subsection{Yhdistys}
+Perustettu keväällä 2010 \\
+\location{2010-2014 | Vallila | 100 m\textsuperscript{2}}
+\location{2014- | Pitäjänmäki | 225 m\textsuperscript{2}}
+Jäseniä noin 250 \\
+\sectionsep
+
+\subsection{Työtilat}
+Puutyöverstas \textbullet{} Metallityöt \\
+Elektroniikka \textbullet{} Mediatyötila \\
+Ompelutyöt \textbullet{} Koulutustilat \\
+3D-tulostaminen \textbullet{} Koneistus \\
+Robotiikka \textbullet{} Maalaus \textbullet{} Keittiö
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     NETISSÄ
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Netissä} 
+Flickr:// \href{https://www.flickr.com/photos/helsinkihacklab}{\bf helsinkihacklab} \\
+Facebook:// \href{https://www.facebook.com/helsinkihacklab/}{\bf helsinkihacklab} \\
+Github:// \href{https://github.com/HelsinkiHacklab/}{\bf HelsinkiHacklab} \\
+Twitter://  \href{https://twitter.com/HelsinkiHacklab}{\bf @HelsinkiHacklab} \\
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Toiminta
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Toiminta}
+\subsection{Joka viikko}
+Avoimet tiistait 17-22 joka viikko\\
+Kursseja ja koulutuksia \\
+Digitaalitekniikkaa torstaisin \\
+Omalla avaimella 24h käyttö
+\sectionsep
+
+\subsection{Koulutuksia}
+Arduino \textbullet{} Elektroniikan alkeet \\
+Ohjelmointi \textbullet{} CNC-koneistus \\
+Viikonloppu- ja teemakursseja \\
+Robotiikka \textbullet{} Piirilevyjen valmistus \\
+FPGA \textbullet{} ARM \textbullet{} Retrotekniikka
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Osallistuminen
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Tapahtumat}
+\subsection{Itse järjestämät}
+Hacklab Summit Finland {\scriptsize 2015½, 2016½}
+\sectionsep
+
+\subsection{Kotimaiset}
+Hacklab Summit Finland {\scriptsize 2012-2017} \\
+Model Expo {\scriptsize 2010, 2012-2014, 2016} \\
+Assembly Summer {\scriptsize 2010-2016} \\
+Mini Maker Faire {\scriptsize 2015} \\
+Tekniikan päivät {\scriptsize 2015} \\
+Wärk:fest {\scriptsize 2012, 2013} \\
+Camp Pixelache {\scriptsize 2012} \\
+Reaktori-tapahtuma {\scriptsize 2012} \\
+Alt Party {\scriptsize 2010, 2011}
+\sectionsep
+
+\subsection{Ulkomailla}
+Chaos Communication Camp {\scriptsize 2015, Saksa} \\
+Tehnohack {\scriptsize 2014, Tallinna} \\
+OHM {\scriptsize 2013, Alankomaat}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     SARAKE, oikea
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+
+\section{Esittely}
+Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa kansainvälistä Hackerspace-liikettä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää, jäsentensä rahoittamaa työtilaa. Tila on kunnostettu harrastekäyttöön talkoovoimin. Suuri osa järjestämistämme avoimista kursseista ovat osallistujille täysin ilmaisia. Yhdistys on aktiivinen toiminnastaan tiedottaja, kirjoittaa omaa blogia sekä julkaisee useita kymmeniä valokuvia toiminnastaan joka kuukausi. Teemme yhteistyötä Suomen Avaruustutkimusseuran kanssa. 
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Oma tuotanto
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Oma tuotanto}
+\runsubsection{Robotit Strömbergin puistossa}
+\descript{\textbullet{} Perhetapahtuma }
+\location{Kesäkuu 2016, Helsinki}
+lmainen yleisötapahtuma: robotteja ja pienoiskoptereiden näytöksiä.
+Ympäri Suomea paikalle saapuneet kisarobotit seikkailivat sokkelossa.
+\sectionsep
+
+\runsubsection{Reaktori}
+\descript{\textbullet{} Mediateos, simulaatio ja peli }
+\location{Alt Party 2010, Assembly Summer 2014, Chaos Communication Camp 2015}
+Maksimoi energiantuotanto, pidä ydin vakaana ja hypi reaktorin päällä.
+\sectionsep
+
+\runsubsection{Helsingin energiakartta}
+\descript{\textbullet{} Interaktiivinen infotaulu}
+\location{Sähkötalon näyttelyaula, 2014}
+\sectionsep
+
+\runsubsection{Kierrätin}
+\descript{\textbullet{} Kierrätysteos}
+\location{2012, lainassa tiedekeskus Heurekassa}
+Elektroniikkaromusta ja muusta jätteestä rakennettu mekaaninen kuularata.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Yhteistyö
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Taideyhteistyö}
+\runsubsection{Oodi elämälle}
+\descript{\textbullet{} Ville Malja ja Helsinki Hacklab}
+\location{Creat Space -galleria, syksy 2016}
+Helsinki Hacklab toteutti teokseen suurikokoisen segmenttinäytön.  
+\sectionsep
+
+\runsubsection{Useless Exercise}
+\descript{\textbullet{} Johannes Rantapuska ja Helsinki Hacklab}
+\location{HAM-galleria, kesä 2016 \textbullet{} Helsingin kaupunginmuseon kokoelma }
+Kuntopyörän polkemistahti ohjaa esitettävän videon esitysnopeutta.
+\sectionsep
+
+\runsubsection{D-A-T/D-A}
+\descript{\textbullet{} KNPSST}
+\location{Koneen Säätiön Saaren taiteilijaresidensi 2015}
+Tanssia, sensoreita, liikettä, ääntä ja efektejä yhdistelevä teos.
+\sectionsep
+
+\runsubsection{Unista herätetyt}
+\descript{\textbullet{} Harri Larjosto ja Helsinki Hacklab}
+\location{Vantaan taidemuseo, talvi 2013}
+Teoksen robotiikan tekninen suunnittelu ja toteutus.
+\sectionsep
+
+\section{Koulutusyhteistyö}
+\runsubsection{Exactum Greenhouse}
+\descript{\textbullet{} HY tietojenkäsittelytieteen laitos}
+Työtila käytössä projektikurssin harjoitustöissä 2015.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Demoskene
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Demoskenetoiminta} 
+Yhdistyksen jäsenissä on useita demoskene-aktiiveja ja kilpailuihin osallistujia.
+\begin{tabular}{rll}
+2013	     & \textit{Metronäyttö}, sooda | Assembly Summer 2013 Real Wild, voittaja
+\end{tabular}
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
+
