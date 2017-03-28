@@ -38,7 +38,8 @@
  }
 
 
-
+% Tavutus kuntoon
+\usepackage[finnish]{babel}
 
 
 \begin{document}
