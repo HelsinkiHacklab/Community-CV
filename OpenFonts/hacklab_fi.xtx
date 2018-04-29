@@ -83,7 +83,8 @@
 Perustettu keväällä 2010 \\
 \location{2010-2014 | Vallila | 100 m\textsuperscript{2}}
 \location{2014- | Pitäjänmäki | 225 m\textsuperscript{2}}
-Jäseniä noin 250 \\
+\location{2017- laajennos 350 m\textsuperscript{2}}
+Jäseniä yli 300 \\
 \sectionsep
 
 \subsection{Työtilat}
@@ -130,11 +131,11 @@ FPGA \textbullet{} ARM \textbullet{} Retrotekniikka
 
 \section{Tapahtumat}
 \subsection{Itse järjestämät}
-Hacklab Summit Finland {\scriptsize 2015½, 2016½}
+Hacklab Summit Finland ½ {\scriptsize 2015-2017}
 \sectionsep
 
 \subsection{Kotimaiset}
-Hacklab Summit Finland {\scriptsize 2012-2017} \\
+Hacklab Summit Finland {\scriptsize 2012-2018} \\
 Model Expo {\scriptsize 2010, 2012-2014, 2016} \\
 Assembly Summer {\scriptsize 2010-2016} \\
 Mini Maker Faire {\scriptsize 2015} \\
@@ -146,6 +147,7 @@ Alt Party {\scriptsize 2010, 2011}
 \sectionsep
 
 \subsection{Ulkomailla}
+SHA {\scriptsize 2017, Alankomaat} \\
 Chaos Communication Camp {\scriptsize 2015, Saksa} \\
 Tehnohack {\scriptsize 2014, Tallinna} \\
 OHM {\scriptsize 2013, Alankomaat}
@@ -162,7 +164,7 @@ OHM {\scriptsize 2013, Alankomaat}
 
 
 \section{Esittely}
-Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa kansainvälistä Hackerspace-liikettä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää, jäsentensä rahoittamaa työtilaa. Tila on kunnostettu harrastekäyttöön talkoovoimin. Suuri osa järjestämistämme avoimista kursseista ovat osallistujille täysin ilmaisia. Yhdistys on aktiivinen toiminnastaan tiedottaja, kirjoittaa omaa blogia sekä julkaisee useita kymmeniä valokuvia toiminnastaan joka kuukausi. Teemme yhteistyötä Suomen Avaruustutkimusseuran kanssa. 
+Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa kansainvälistä Hackerspace-liikettä. Olemme itsenäinen, riippumaton ja omaehtoisesti toimiva yhteisö, joka ylläpitää avointa rakenteluun ja projektien toteuttamiseen keskittyvää, jäsentensä rahoittamaa työtilaa. Tila on kunnostettu harrastekäyttöön talkoovoimin. Suuri osa järjestämistämme avoimista kursseista ovat osallistujille täysin ilmaisia. Yhdistys on aktiivinen toiminnastaan tiedottaja, kirjoittaa omaa blogia sekä julkaisee useita kymmeniä valokuvia toiminnastaan joka kuukausi. Teemme yhteistyötä Suomen Avaruustutkimusseuran kanssa.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -199,6 +201,19 @@ Elektroniikkaromusta ja muusta jätteestä rakennettu mekaaninen kuularata.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Taideyhteistyö}
+
+\runsubsection{C6H12O}
+\descript{\textbullet{} Laura Dahlberg ja Helsinki Hacklab}
+\location{Galleria Huuto, kevät 2018}
+Muunnellut ilmankostuttimet ja keinotekoinen nurmikon tuoksu.
+\sectionsep
+
+\runsubsection{Vaiheinen}
+\descript{\textbullet{} Pia Männikkö ja Helsinki Hacklab}
+\location{Galleria Lapinlahti, talvi 2018}
+Yhdistys rakensi liikkuvaan optiseen teokseen moottoreita.
+\sectionsep
+
 \runsubsection{Oodi elämälle}
 \descript{\textbullet{} Ville Malja ja Helsinki Hacklab}
 \location{Creat Space -galleria, syksy 2016}
@@ -235,11 +250,14 @@ Työtila käytössä projektikurssin harjoitustöissä 2015.
 %     Demoskene
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Demoskenetoiminta} 
-Yhdistyksen jäsenissä on useita demoskene-aktiiveja ja kilpailuihin osallistujia.
-\begin{tabular}{rll}
-2013	     & \textit{Metronäyttö}, sooda | Assembly Summer 2013 Real Wild, 1. sija
-\end{tabular}
+% \section{Demoskenetoiminta} 
+% Yhdistyksen jäsenissä on useita demoskene-aktiiveja ja kilpailuihin osallistujia.
+% \begin{tabular}{rll}
+% 2013	     & \textit{Metronäyttö}, sooda | Assembly Summer 2013 Real Wild, 1. sija
+% \end{tabular}
+
+
+%%%% Império do Papagaio -yhteistyö?
 
 \cfoot{Yhteisöllinen | Itsenäinen | Avoin}
 

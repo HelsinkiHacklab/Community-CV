@@ -29,6 +29,8 @@
 \pagestyle{fancy}
 \fancyhf{}
  
+\usepackage{graphicx}
+
 
 % Lisätilaa ja A4-kokoon vaihtaminen
 \usepackage{geometry}
@@ -78,8 +80,10 @@
 Established in spring 2010 \\
 \location{2010-2014 | Vallila | 100 m\textsuperscript{2}}
 \location{2014- | Pitäjänmäki | 225 m\textsuperscript{2}}
-No. members 250
+\location{2017- extension 350 m\textsuperscript{2}}
+No. members 300+
 \sectionsep
+
 
 \subsection{Workspace}
 Wood shop \textbullet{} Metal works \\
@@ -125,11 +129,11 @@ FPGA \textbullet{} ARM \textbullet{} Retro tech
 
 \section{Events}
 \subsection{Self organized}
-Hacklab Summit Finland {\scriptsize 2015½, 2016½}
+Hacklab Summit Finland ½ {\scriptsize 2015-2017}
 \sectionsep
 
 \subsection{In Finland}
-Hacklab Summit Finland {\scriptsize 2012-2017} \\
+Hacklab Summit Finland {\scriptsize 2012-2018} \\
 Model Expo {\scriptsize 2010, 2012-2014, 2016} \\
 Assembly Summer {\scriptsize 2010-2016} \\
 Mini Maker Faire {\scriptsize 2015} \\
@@ -141,6 +145,7 @@ Alt Party {\scriptsize 2010, 2011}
 \sectionsep
 
 \subsection{Elsewhere}
+SHA {\scriptsize 2017, Netherlands} \\
 Chaos Communication Camp {\scriptsize 2015, Germany} \\
 Tehnohack {\scriptsize 2014, Estonia} \\
 OHM {\scriptsize 2013, Netherlands}
@@ -194,6 +199,19 @@ Mechanical marble course made from electrical waste and other junk.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Art co-operation}
+
+\runsubsection{C6H12O}
+\descript{\textbullet{} Laura Dahlberg and Helsinki Hacklab}
+\location{Galleria Huuto, spring 2018}
+Modified air humidifiers and artificial grass scent.
+\sectionsep
+
+\runsubsection{Vaiheinen}
+\descript{\textbullet{} Pia Männikkö and Helsinki Hacklab}
+\location{Galleria Lapinlahti, talvi 2018}
+Hacklab built motors for a moving optical installation.
+\sectionsep
+
 \runsubsection{Oodi elämälle}
 \descript{\textbullet{} Ville Malja and Helsinki Hacklab}
 \location{Creat Space gallery, fall 2016}
@@ -230,11 +248,11 @@ Workspace in use for project course exercises 2015.
 %     Demoskene
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Demoscene activity} 
-Helsinki Hacklab members include demoscene actives and competitors.
-\begin{tabular}{rll}
-2013	     & \textit{Metro display}, sooda | Assembly Summer 2013 Real Wild, 1st place
-\end{tabular}
+% \section{Demoscene activity} 
+% Helsinki Hacklab members include demoscene actives and competitors.
+% \begin{tabular}{rll}
+% 2013	     & \textit{Metro display}, sooda | Assembly Summer 2013 Real Wild, 1st place
+% \end{tabular}
 
 \end{minipage}
 
