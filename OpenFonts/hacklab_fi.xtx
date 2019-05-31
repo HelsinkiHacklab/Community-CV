@@ -84,7 +84,7 @@ Perustettu keväällä 2010 \\
 \location{2010-2014 | Vallila | 100 m\textsuperscript{2}}
 \location{2014- | Pitäjänmäki | 225 m\textsuperscript{2}}
 \location{2017- laajennos 350 m\textsuperscript{2}}
-Jäseniä yli 300 \\
+Jäseniä yli 350 \\
 \sectionsep
 
 \subsection{Työtilat}
@@ -131,24 +131,25 @@ FPGA \textbullet{} ARM \textbullet{} Retrotekniikka
 
 \section{Tapahtumat}
 \subsection{Itse järjestämät}
-Hacklab Summit Finland ½ {\scriptsize 2015-2017}
+Hacklab Summit Finland ½ {\scriptsize 2015-2018}
 \sectionsep
 
 \subsection{Kotimaiset}
-Hacklab Summit Finland {\scriptsize 2012-2018} \\
-Model Expo {\scriptsize 2010, 2012-2014, 2016} \\
-Assembly Summer {\scriptsize 2010-2016} \\
-Mini Maker Faire {\scriptsize 2015} \\
+Hacklab Summit Finland {\scriptsize 2012-2019} \\
+Model Expo / Hupicon \\ {\scriptsize 2010, 2012-2014, 2016, 2019} \\  %% tarkemmin 2010, 2012-2014, 2016, 2019
+Assembly Summer {\scriptsize 2010-2018} \\
+Mini Maker Faire {\scriptsize 2015, 2017} \\
 Tekniikan päivät {\scriptsize 2015} \\
-Wärk:fest {\scriptsize 2012, 2013} \\
+Wärk:fest {\scriptsize 2012, 2013, 2018} \\
 Camp Pixelache {\scriptsize 2012} \\
-Reaktori-tapahtuma {\scriptsize 2012} \\
+%% Reaktori-tapahtuma {\scriptsize 2012} \\
 Alt Party {\scriptsize 2010, 2011}
 \sectionsep
 
 \subsection{Ulkomailla}
 SHA {\scriptsize 2017, Alankomaat} \\
 Chaos Communication Camp {\scriptsize 2015, Saksa} \\
+{\scriptsize (+ 2019 suunnitteilla)} \\
 Tehnohack {\scriptsize 2014, Tallinna} \\
 OHM {\scriptsize 2013, Alankomaat}
 
@@ -174,9 +175,9 @@ Helsinki Hacklab ry. on pääkaupunkiseudulla toimiva harrastajayhdistys ja osa 
 \section{Oma tuotanto}
 \runsubsection{Robotit Strömbergin puistossa}
 \descript{\textbullet{} Perhetapahtuma }
-\location{Kesäkuu 2016, Helsinki}
-lmainen yleisötapahtuma: robotteja ja pienoiskoptereiden näytöksiä.
-Ympäri Suomea paikalle saapuneet kisarobotit seikkailivat sokkelossa.
+\location{Kesäkuu 2016-2018, Helsinki}
+Ilmainen yleisötapahtuma: robotteja ja pienoiskoptereiden näytöksiä.
+Ympäri Suomea paikalle saapuneet kisarobotit seikkailivat sokkelossa. Tulossa taas 2019.
 \sectionsep
 
 \runsubsection{Reaktori}
@@ -241,10 +242,15 @@ Teoksen robotiikan tekninen suunnittelu ja toteutus.
 %     Yhteistyö, koulutus
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Koulutusyhteistyö}
+\section{Muu yhteistyö}
 \runsubsection{Exactum Greenhouse}
 \descript{\textbullet{} HY tietojenkäsittelytieteen laitos}
 Työtila käytössä projektikurssin harjoitustöissä 2015.
+\sectionsep
+
+\runsubsection{Sambakulkueen asusteet}
+\descript{\textbullet{} Império do Papagaio}
+Työtila käytössä vuosittain tanssikoulun asusteiden valmistamiseen.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Demoskene
@@ -257,7 +263,6 @@ Työtila käytössä projektikurssin harjoitustöissä 2015.
 % \end{tabular}
 
 
-%%%% Império do Papagaio -yhteistyö?
 
 \cfoot{Yhteisöllinen | Itsenäinen | Avoin}
 
